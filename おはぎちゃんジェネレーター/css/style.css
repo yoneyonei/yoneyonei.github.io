@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+body {
+    background-color: #bbbbbb;
+    font-family: 'Verdana','sans-serif','Meiryo','Hiragino Sans';
+}
+p{
+   text-align: center;
+   border: 5px solid #ffffff;
+   border-radius: 25px;
+   color: #ffffff;
+   background-color: #ff9a9e;
+   font-size: 30px;
+   display: block;
+   padding: 20px;
+   font-weight: bold;
+   /* width: 100px; */
+   margin: 100px auto;
+   width: 400px;
+   
+}
+p.hover-sample:hover{
+    color: #669999;
+    font-size:40px;
+    font-weight: bold;
+}
